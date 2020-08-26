@@ -207,11 +207,11 @@ ideologies = [
         }
     },
     {
-        "name": "Totalitarianism",
+        "name": "Indorilism",
         "stats": {
-            "econ": 50,
-            "dipl": 20,
-            "govt": 0,
+            "econ": 60,
+            "dipl": 30,
+            "govt": 15,
             "scty": 50
         }
     },
